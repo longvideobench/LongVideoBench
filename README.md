@@ -1,11 +1,9 @@
 <div align="center">
   <h1>LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding</h1> 
     
-<div style="width: 50%; text-align: center; margin:auto;">
-      <img style="width: 50%" src="logo.png">
+<div style="width: 35%; text-align: center; margin:auto;">
+      <img style="width: 35%" src="logo.png">
 </div> 
-    
-<a href="https://huggingface.co/spaces/longvideobench/LongVideoBench">LongVideoBench Interactive Leaderboard.</a>
 
   <div>
       <a href="https://scholar.google.com.hk/citations?user=wth-VbMAAAAJ" target="_blank">Haoning Wu</a>,
@@ -15,6 +13,12 @@
 
   </div>
 
+  
+    <div>
+<a href="https://huggingface.co/spaces/longvideobench/LongVideoBench">LongVideoBench Interactive Leaderboard.</a>
+</div>
+
+
     
 <div>
    <a href="https://HuggingFace.co/datasets/longvideobench/LongVideoBench"><strong>Dataset Release on HuggingFace</strong></a>  | <a href="https://longvideobench.github.io/"><strong>Homepage</strong></a> | <a href="https://huggingface.co/spaces/longvideobench/LongVideoBench"><strong>HuggingFace Leaderboard</strong></a>
@@ -23,21 +27,22 @@
     
     
 <h2>(left) An referring reasoning question. (right) Results with different input frames.</h2> 
-<div style="width: 75%; text-align: center; margin:auto;">
-      <img style="width: 75%" src="teaser.png">
+<div style="width: 80%; text-align: center; margin:auto;">
+      <img style="width: 80%" src="lvb_teaser.png">
 </div> 
 
-<h2>Initial Leaderboard (view more on <a href="https://huggingface.co/spaces/longvideobench/LongVideoBench"><strong>HuggingFace Leaderboard</strong></a>)</h2> 
+<h2>Initial Leaderboard</h2> 
 
-<div style="width: 100%; text-align: center; margin:auto;">
-      <img style="width: 100%" src="leaderboard_paper.png">
+View more on <a href="https://huggingface.co/spaces/longvideobench/LongVideoBench"><strong>HuggingFace Leaderboard</strong></a>.
+
+<div style="width: 80%; text-align: center; margin:auto;">
+      <img style="width: 80%" src="leaderboard_paper.png">
 </div>
 
 
 </div> 
 
 ## Load the LongVideoBench Dataset
-
 
 1. Download the dataset via Hugging Face CLI:
 
