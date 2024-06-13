@@ -26,7 +26,8 @@
     
     
     
-<h2>(left) An referring reasoning question. (right) Results with different input frames.</h2> 
+<h2>Introduction</h2> 
+(left) An referring reasoning question. (right) Results with different input frames.
 <div style="width: 80%; text-align: center; margin:auto;">
       <img style="width: 80%" src="lvb_teaser.png">
 </div> 
