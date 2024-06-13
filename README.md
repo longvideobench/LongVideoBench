@@ -14,9 +14,9 @@
   </div>
 
   
-    <div>
+
 <a href="https://huggingface.co/spaces/longvideobench/LongVideoBench">LongVideoBench Interactive Leaderboard.</a>
-</div>
+
 
 
     
