@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "longvideobench"
+version = "0.0.1"
+description = "LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+]
+dependencies = [
+    "torch>=2.1.1", "decord", "torchvision", "pillow",
+]
+
+
+[project.urls]
+"Bug Tracker" = "https://github.com/longvideobench/LongVideoBench/issues"
+
+[tool.setuptools.packages.find]
+exclude = ["assets*", "benchmark*", "docs", "dist*", "playground*", "scripts*", "tests*"]
+
+[tool.wheel]
+exclude = ["assets*", "benchmark*", "docs", "dist*", "playground*", "scripts*", "tests*"]
