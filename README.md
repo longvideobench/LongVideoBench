@@ -6,9 +6,11 @@
 </div> 
 
   <div>
-      LongVideoBench Team
-
-  </div>
+      <a href="https://scholar.google.com.hk/citations?user=wth-VbMAAAAJ" target="_blank">Haoning Wu</a>,
+      <a href="https://scholar.google.com/citations?user=h5XtaUUAAAAJ" target="_blank">Dongxu Li</a>,
+    <a href="https://scholar.google.com/citations?user=Po65v_MAAAAJ" target="_blank">Bei Chen</a>,
+    <a href="https://scholar.google.com/citations?user=MuUhwi0AAAAJ" target="_blank">Junnan Li</a>
+</div>
 
   
 
@@ -18,7 +20,7 @@
 
     
 <div>
-   <a href="https://HuggingFace.co/datasets/longvideobench/LongVideoBench"><strong>Dataset Release on HuggingFace</strong></a>  | <a href="https://longvideobench.github.io/"><strong>Homepage</strong></a> | <a href="https://huggingface.co/spaces/longvideobench/LongVideoBench"><strong>HuggingFace Leaderboard</strong></a>
+   <a href="https://HuggingFace.co/datasets/longvideobench/LongVideoBench"><strong>Dataset on HuggingFace</strong></a>  | <a href="https://longvideobench.github.io/"><strong>Homepage</strong></a> | <a href="https://huggingface.co/spaces/longvideobench/LongVideoBench"><strong>HuggingFace Leaderboard</strong></a> |  <a href="https://arxiv.org/abs/2407.15754"><strong>ArXiv</strong></a>
    </div>   
     
     
@@ -148,3 +150,15 @@ Please contact `haoning001@e.ntu.edu.sg` for any queries.
 ## License
 
 This dataset follows CC-BY-NC-SA 4.0 license. Please use this dataset for non-commercial use ONLY.
+
+## Citation
+
+@misc{wu2024longvideobench,
+      title={LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding}, 
+      author={Haoning Wu and Dongxu Li and Bei Chen and Junnan Li},
+      year={2024},
+      eprint={2407.15754},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.15754}, 
+}
