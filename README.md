@@ -1,5 +1,6 @@
 <div align="center">
   <h1>LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding</h1> 
+  
     
 <div style="width: 35%; text-align: center; margin:auto;">
       <img style="width: 35%" src="logo.png">
@@ -11,10 +12,6 @@
     <a href="https://scholar.google.com/citations?user=Po65v_MAAAAJ" target="_blank">Bei Chen</a>,
     <a href="https://scholar.google.com/citations?user=MuUhwi0AAAAJ" target="_blank">Junnan Li</a>
 </div>
-
-  
-
-<a href="https://huggingface.co/spaces/longvideobench/LongVideoBench">LongVideoBench Interactive Leaderboard.</a>
 
 
 
@@ -153,6 +150,7 @@ This dataset follows CC-BY-NC-SA 4.0 license. Please use this dataset for non-co
 
 ## Citation
 
+```bibtex
 @misc{wu2024longvideobench,
       title={LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding}, 
       author={Haoning Wu and Dongxu Li and Bei Chen and Junnan Li},
@@ -162,3 +160,4 @@ This dataset follows CC-BY-NC-SA 4.0 license. Please use this dataset for non-co
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2407.15754}, 
 }
+```
